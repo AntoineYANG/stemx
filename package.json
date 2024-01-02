@@ -1,0 +1,15 @@
+{
+  "name": "stemx",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "lerna run dev"
+  },
+  "devDependencies": {
+    "lerna": "7"
+  }
+}

@@ -1,0 +1,9 @@
+# deps or local
+/node_modules/
+.next/
+
+# production
+/dist/
+
+# logs
+yarn-error.log
